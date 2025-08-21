@@ -18635,7 +18635,7 @@
                         children: (0, r.jsx)("div", {
                             className: "logo",
                             children: (0, r.jsx)("img", {
-                                src: "/Suryabhailogo.webp",
+                                src: "/https://i.postimg.cc/CxTvpsf5/Suryabhailogo.webp",
                                 alt: ""
                             })
                         })
@@ -19010,7 +19010,7 @@
                     children: [(0, r.jsxs)("div", {
                         className: "contact-box1",
                         children: [(0, r.jsx)("img", {
-                            src: "/Suryabhailogo.webp",
+                            src: "/https://i.postimg.cc/CxTvpsf5/Suryabhailogo.webp",
                             alt: "",
                             width: "80%"
                         }), (0, r.jsxs)("p", {
